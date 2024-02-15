@@ -19,4 +19,7 @@ Train test split
 
 Our data is separated into train and test sets using the train test split() technique. We must first separate our data into features (X) and labels (y). Divided into X train, X test, Y train, and Y test, the dataframe is. The model is trained and fitted using the X train and y train sets.    
 
+![output1](https://github.com/ritik944/Time_Series_Forecasting/assets/110728821/b64b693f-93f9-4d9f-8cc9-a2061e451dd7)
+
+
 ![output1](https://github.com/ritik944/Time_Series_Forecasting/assets/110728821/45c30b3e-e695-4048-80fd-fceaa4fc1502)
